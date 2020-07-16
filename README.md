@@ -7,7 +7,7 @@ A ML Project To Predict The Brain Tumor By Using Different Algorithms And Select
 * KNN
 
 
-Following VersionOf Libraries Were Used:-
+Following Version Of Libraries Were Used:-
 
 * Matplotlib version:- 3.1.3
 * Sklearn version:- 0.23.1
