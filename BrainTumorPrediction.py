@@ -77,7 +77,7 @@ ax1 = fig.add_subplot(111)
 cax = ax1.imshow(data.corr() )
 ax1.grid(True)
 plt.title('Cancer Attributes Correlation')
-# Add colorbar, make sure to specify tick locations to match desired ticklabels
+# Add colorbar
 fig.colorbar(cax)
 plt.show()
 #Finally, we'll split the data into predictor variables and target variable,
