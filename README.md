@@ -1,10 +1,10 @@
 # BrainTumourPrediction
 A ML Project To Predict The Brain Tumor By Using Different Algorithms And Selecting The Best One.
 4 Algorithms Were Analysed For This Dataset:-
-1)SVM
-2)NB
-3)CART
-4)KNN
+* SVM
+* NB
+* CART
+* KNN
 Following VersionOf Libraries Were Used:-
 Matplotlib version:- 3.1.3
 Sklearn version:- 0.23.1
